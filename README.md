@@ -1,3 +1,3 @@
 # LeetCode
 
-# A collection of solutions
+A collection of solutions
